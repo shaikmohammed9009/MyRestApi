@@ -1,0 +1,39 @@
+[
+  {
+    "name": "iphone",
+    "price": 150000,
+    "featured": true,
+    "company": "Apple"
+  },
+  {
+    "name": "iphone13",
+    "price": 100000,
+    "featured": true,
+    "company": "Apple"
+  },
+
+  {
+    "name": "samsung",
+    "price": 120000,
+    "featured": true,
+    "company": "samsung"
+  },
+  {
+    "name": "IqooNeo6",
+    "price": 25000,
+    "featured": true,
+    "company": "vivo"
+  },
+  {
+    "name": "Mi10",
+    "price": 30000,
+    "featured": true,
+    "company": "MI"
+  },
+  {
+    "name": "DellLaptop",
+    "price": 30000,
+    "featured": true,
+    "company": "Dell"
+  }
+]
